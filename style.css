@@ -1,0 +1,13 @@
+/*** style.css ***/
+
+@charset "UTF-8";
+
+body
+{ background-color: rgb(205,255,255)
+; color: rgb(200,0,0)
+}
+
+p
+{ font-size: 28px
+; font-family: Verdana, arial, sans-serif
+}
